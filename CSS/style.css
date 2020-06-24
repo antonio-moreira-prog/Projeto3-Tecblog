@@ -20,10 +20,6 @@ a:hover{
     color: #00BFFF;
     background: #FFF;
 }
-
-
-
-
 #navegacao a:link, #navegacao a:visited{
     text-decoration: none;
     padding: 5px 15px;
